@@ -1,0 +1,31 @@
+p3{
+    color: whitesmoke;
+    
+    
+}
+h1{
+    
+   /* -webkit-text-stroke: 1px rgb(255, 0, 0);*/
+    color: white;
+   text-align: center;
+   
+}
+
+body{
+    background-color: black;
+    
+}
+h2{
+    color: yellowgreen;
+    
+    
+}
+li{
+    color: white;
+}
+div{
+    color: white;
+}
+div1{
+    color: aqua;
+}
